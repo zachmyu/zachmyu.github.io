@@ -7,11 +7,7 @@
 @import url('fontawesome-all.min.css');
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
 
-/*
-	Landed by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 // Breakpoints.
 
@@ -579,7 +575,7 @@
 	}
 
 	input[type="checkbox"],
-	input[type="radio"], {
+	input[type="radio"] {
 		@include vendor('appearance', 'none');
 		display: block;
 		float: left;
@@ -1304,8 +1300,8 @@
 	.wrapper {
 		padding: $size-wrapper-pad-tb 0 ($size-wrapper-pad-tb - _size(element-margin)) 0;
 
-		&.style1 {
-		}
+		// &.style1 {
+		// }
 
 		&.style2 {
 			background: _palette(accent1);
@@ -2163,3 +2159,9 @@
 			}
 
 	}
+
+/*
+Landed by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
