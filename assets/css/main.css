@@ -111,10 +111,17 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
-		a:hover {
-			color: rgb(30, 144, 255) !important;
-			border-bottom-color: transparent;
-		}
+	a:hover {
+		color: rgb(30, 144, 255) !important;
+		border-bottom-color: transparent;
+	}
+
+	.resumeDownload {
+		font-weight: bold;
+		color: rgb(240, 247, 255) !important;
+		border-bottom-color: transparent;
+		text-decoration: underline;
+	}
 
 	strong, b {
 		color: #ffffff;
