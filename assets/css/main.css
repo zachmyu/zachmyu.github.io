@@ -123,6 +123,12 @@ input, select, textarea {
 		text-decoration: underline;
 	}
 
+	.resumeExpTitle {
+		display: flex;
+		width: 80vw;
+		justify-content: space-between;
+	}
+
 	strong, b {
 		color: #ffffff;
 		font-weight: 300;
