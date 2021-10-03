@@ -1,3 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
-
-To start dev, enter command `npm run dev`
+# zachmyu.github.io
